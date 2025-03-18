@@ -8,5 +8,6 @@ public class GitPracticeHehe {
         System.out.println("This changes are in dev2");
         System.out.println("This changes are in dev3");
         System.out.println("This changes are in dev4");
+        System.out.println("This changes are in naya");
     }
 }
