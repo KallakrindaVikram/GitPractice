@@ -7,5 +7,6 @@ public class GitPractice {
         System.out.println("This changes are in dev1");
         System.out.println("This changes are in dev2");
         System.out.println("This changes are in dev3");
+        System.out.println("This changes are in dev4");
     }
 }
